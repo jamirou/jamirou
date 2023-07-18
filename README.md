@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/Jamiro Manriquez](https://www.linkedin.com/in/jamiro-manriquez-832aaa204/)) 
 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](jamiro.devops@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)][(jamiro.devops@gmail.com)]
 
 
 # 💻 Tech Stack:
