@@ -1,4 +1,4 @@
-# 💫 Hello I'm Jamiro
+# 💫                                       👋 Hello I'm Jamiro
 🔭 I'm currently working on apps development<br>🤝 I’m looking for help to get a mentor<br>
 
 
