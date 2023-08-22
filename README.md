@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=Jamiro&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-• 🔭 I'm currently learning  Android development 
+• 🔭Currently learning  Android development 
 <h3>Conect with me: </h3>
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](devjamiro@gmail.com)
