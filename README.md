@@ -1,4 +1,4 @@
-# <p align = "center"> Hi👋, I'm Jamiro </p> #
+# <p align = "center"> Hi👋, I'm Jamiro </p> ##
 
 <p align = "center"> 👨‍💻 A passionate developer from Chile 👾 </p>
 
