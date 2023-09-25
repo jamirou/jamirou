@@ -3,6 +3,7 @@
 <p align = "center"> 👨‍💻 A passionate developer from Chile 👾 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Jamiro&icon=2&color=0)](https://visitcount.itsvg.in)
+
  
 
 • 🔭Android developer 
