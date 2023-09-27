@@ -5,7 +5,6 @@
 [![](https://visitcount.itsvg.in/api?id=Jamiro&icon=2&color=0)](https://visitcount.itsvg.in)
 
  
-
 • 🔭Android developer 
 <h3>Conect with me: </h3>
 
