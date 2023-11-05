@@ -1,6 +1,7 @@
 # <p align = "center"> Hi👋, I'm Jamiro </p> #
 
 
+
 • 🔭Android developer 
 
 <h3>Languages and tools?: </h3>
