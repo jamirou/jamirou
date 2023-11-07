@@ -12,7 +12,6 @@
 ![MVVM](https://img.shields.io/badge/MVVM-%23FFCD4B.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
 
-
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
  
 
