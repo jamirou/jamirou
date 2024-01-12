@@ -2,7 +2,7 @@
 
 
 
-• 🔭Android developer 
+• 🔭Getting better
 
 <h3>Languages and tools?: </h3>
 
