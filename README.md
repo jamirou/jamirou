@@ -1,8 +1,6 @@
 # <p align = "center"> Hi👋, I'm Jamiro </p> #
 
-
-
-• 🔭Getting better
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3400&pause=900&color=DFDFDF&random=false&width=435&lines=%E2%9A%A1I'm+an+Android+developer+;%F0%9F%92%ABAlways+looking+for+new+challenges)](https://git.io/typing-svg)
 
 <h3>Languages and tools?: </h3>
 
