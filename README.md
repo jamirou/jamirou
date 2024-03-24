@@ -1,17 +1,8 @@
-# <p align = "center"> Hi👋, I'm Jamiro </p> #
+## <p align = "Left">>. Hi, I'm Jamiro </p> #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3400&pause=900&color=DFDFDF&random=false&width=435&lines=%E2%9A%A1I'm+an+Android+developer+;%F0%9F%92%ABAlways+looking+for+new+challenges)](https://git.io/typing-svg)
 
-<h3>Languages and tools?: </h3>
+<h3>Stack?: </h3>
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,firebase,idea,androidstudio,bash,gradle,linux,mysql,docker,react,py,arduino,sublime,postman,raspberrypi,git,postgres,&perline=9)](https://skillicons.dev)
 
-
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%2320232a.svg?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-%23FFCD4B.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
- 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
