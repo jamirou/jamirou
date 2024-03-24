@@ -30,7 +30,7 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
-        if: success() && steps.snake-gif.outcome == 'success' && steps.Push changes.outcome == 'success'
+        if: success() && steps.snake-gif.outcome == 'success' && steps.'Push changes'.outcome == 'success'
         with:
           target_branch: output
           build_dir: dist
