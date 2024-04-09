@@ -4,5 +4,5 @@
 
 <h3>Stack?: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,firebase,idea,androidstudio,bash,gradle,linux,mysql,postgres,,arduino,py,react,sublime,postman,raspberrypi,git,docker,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,firebase,idea,androidstudio,bash,gradle,linux,mysql,postgres,,,arduino,py,react,sublime,postman,raspberrypi,git,docker,&perline=12)](https://skillicons.dev)
 --------------------------------------------
