@@ -1,6 +1,6 @@
 ## <p align = "Left">>. Hi, I'm Jamiro </p> #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4200&pause=1000&color=F7F7F7&random=false&width=435&lines=%3EI'm+an+Android+developer%E2%9A%A1;%3EAlways+looking+for+new+challenges+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&color=F7F7F7&random=false&width=435&lines=I'm+an+mobile+developer+%F0%9F%92%A1;Always+looking+for+new+challenges+%F0%9F%94%AD.)](https://git.io/typing-svg)
 
 <h3>Stack?: </h3>
 
