@@ -1,7 +1,17 @@
 ## <p align = "Left">>. Hi, I'm Jamiro </p> #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=F7F7F7&random=false&width=435&lines=I'm+a+mobile+developer+%F0%9F%93%B2;Currently+learning+IOS+%26+Swift+%F0%9F%8D%8E;Always+looking+for+new+challenges+%F0%9F%94%AD)](https://git.io/typing-svg)
-
+Class AboutMe {
+  val name = "Jamiro"
+  val role = "Android enginneer"
+  val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects")
+  val hobbies = listOf("Mobile development", "Learning new technologies", "Play Bass")
+  val currentLearning = "Deepening knowledge in Android development with Jetpack Compose"
+  val contactInfo = "Reach me at: jamiro.dev@gmail.com"
+  
+  fun introduceYourself() {
+      println("Hi, I'm $name, an $role. My current Goals, include ${goals.joinToString()}. I'm currently learning $currentlyLearning. ")
+  }
+}
 
 <h3>Stack?: </h3>
 
