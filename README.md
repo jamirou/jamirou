@@ -1,17 +1,20 @@
 ## <p align = "Left">>. Hi, I'm Jamiro </p> #
 
-Class AboutMe {
-  val name = "Jamiro"
-  val role = "Android enginneer"
-  val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects")
-  val hobbies = listOf("Mobile development", "Learning new technologies", "Play Bass")
-  val currentLearning = "Deepening knowledge in Android development with Jetpack Compose"
-  val contactInfo = "Reach me at: jamiro.dev@gmail.com"
-  
-  fun introduceYourself() {
-      println("Hi, I'm $name, an $role. My current Goals, include ${goals.joinToString()}. I'm currently learning $currentlyLearning. ")
-  }
+```kotlin
+class AboutMe {
+    val name = "Jamiro"
+    val role = "Android Engineer"
+    val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects")
+    val hobbies = listOf("Mobile development", "Learning new technologies", "Play Bass")
+    val currentLearning = "Deepening knowledge in Android development with Jetpack Compose"
+    val contactInfo = "Reach me at: jamiro.dev@gmail.com"
+    
+    fun introduceYourself() {
+        println("Hi, I'm $name, an $role. My current goals include ${goals.joinToString()}. I'm currently learning $currentLearning.")
+    }
 }
+
+```
 
 <h3>Stack?: </h3>
 
