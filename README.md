@@ -3,7 +3,7 @@
 ```kotlin
 class AboutMe {
     val name = "Jamiro"
-    val role = "Android Engineer"
+    val role = "Android Developer"
     val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects")
     val hobbies = listOf("Mobile development", "Learning new technologies", "Play Bass")
     val currentLearning = "Deepening knowledge in Android development with Jetpack Compose"
