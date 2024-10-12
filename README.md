@@ -14,6 +14,9 @@ class AboutMe {
     }
 }
 
+Console Output
+"Hi, I'm Jamiro, an Android Developer. My current goals include Master Jetpack Compose, Contribute to open-source projects"
+
 ```
 
 <h3>Stack?: </h3>
