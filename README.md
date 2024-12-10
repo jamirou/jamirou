@@ -3,20 +3,31 @@
 ```kotlin
 class AboutMe {
     val name = "Jamiro"
-    val role = "Android Developer"
-    val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects")
-    val hobbies = listOf("Mobile development", "Learning new things", "Play Bass")
-    val currentLearning = "Deepening knowledge in Android development with Jetpack Compose and Kotlin"
-    val contactInfo = "Reach me at: devjamiro@gmail.com"
+    val role = "Android Developer 🚀"
+    val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects", "Figure out how to fix Gradle errors on time")
+    val hobbies = listOf("Mobile development", "Learning random stuff", "Playing the bass like I'm in a rock band")
+    val currentLearning = "Deciphering the mysteries of Android, Kotlin, and how the Android lifecycle works on Mondays"
+    val contactInfo = "Reach me at: devjamiro@gmail.com (no, I won't fix your bugs for free)"
     
     fun introduceYourself() {
-        println("Hi, I'm $name, an $role. My current goals include ${goals.joinToString()}")
+        println(
+            """
+            |Hey there! 👋 I'm $name, an $role.
+            |My goals include:
+            | - ${goals.joinToString("\n - ")}
+            |Hobbies? Glad you asked:
+            | - ${hobbies.joinToString("\n - ")}
+            |Currently, I'm diving deep into: $currentLearning
+            |Need help or just want to say hi? Contact me at: $contactInfo
+            """.trimMargin()
+        )
     }
 }
 
-Console Output
-"Hi, I'm Jamiro, an Android Developer. My current goals include Master Jetpack Compose, Contribute to open-source projects"
-
+fun main() {
+    val aboutMe = AboutMe()
+    aboutMe.introduceYourself()
+}
 ```
 
 <h3>Stack?: </h3>
