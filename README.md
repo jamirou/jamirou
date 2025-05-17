@@ -1,37 +1,30 @@
-## <p align = "Left">>. Hi, I'm Jamiro </p> #
+<h1 align="center"><code>Jamir 🧙🏻‍♂️</code></h1>
+<hr>
 
-```kotlin
-class AboutMe {
-    val name = "Jamiro"
-    val role = "Android Developer 🚀"
-    val goals = listOf("Master Jetpack Compose", "Contribute to open-source projects", "Figure out how to fix Gradle errors on time")
-    val hobbies = listOf("Mobile development", "Learning random stuff", "Playing the bass like I'm in a rock band")
-    val currentLearning = "Deciphering the mysteries of Android, Kotlin, and how the Android lifecycle works on Mondays"
-    val contactInfo = "Reach me at: devjamiro@gmail.com (no, I won't fix your bugs for free)"
-    
-    fun introduceYourself() {
-        println(
-            """
-            |Hey there! 👋 I'm $name, an $role.
-            |My goals include:
-            | - ${goals.joinToString("\n - ")}
-            |Hobbies? Glad you asked:
-            | - ${hobbies.joinToString("\n - ")}
-            |Currently, I'm diving deep into: $currentLearning
-            |Need help or just want to say hi? Contact me at: $contactInfo
-            """.trimMargin()
-        )
-    }
-}
+<table>
+  <tr>
+    <td valign="top">
+      <pre><code>🚀 Focused on Building & Growing
 
-fun main() {
-    val aboutMe = AboutMe()
-    aboutMe.introduceYourself()
-}
-```
+– Current Stack: Kotlin | Jetpack Compose | Flutter | React | Firebase  
+– Exploring: Marketing Automation 🤖 | Branding 👨‍💼 | AI Trends 🧠  
+– Passions: Clean Code ✨ | Rock Bass Vibes 🎸 | Nat 20 Rolls 🎯</code></pre>
+    </td>
+    <td align="right" valign="top">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ3cGtuZGZnOTR1MzZyc2I4Ync0YTliZzcwMzVhcmhhOHRkZmt1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7Xov9qZ44Mq0qkCN9Q/giphy.gif" width="180px" />
+    </td>
+  </tr>
+</table>
 
-<h3>Stack?: </h3>
+<hr>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,flutter,dart,firebase,idea,androidstudio,bash,gradle,linux,mysql,postgres,,,arduino,py,react,sublime,postman,raspberrypi,git,docker,&perline=12)](https://skillicons.dev)
---------------------------------------------
+<h3 align="center"><code>⚡ Tech Arsenal</code></h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,react,py,linux,git,docker,gradle,firebase,postgres,mysql&perline=12" />
+</p>
 
+<hr>
+
+<p align="center">
+  <em><code>"Commit your works to the Lord, and your plans will succeed." – Proverbs 16:3 🙏</code></em>
+</p>
