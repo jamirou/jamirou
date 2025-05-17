@@ -1,4 +1,4 @@
-<h1 align="center"><code>Jamir ⚡</code></h1>
+<h1 align="center"><code>Jamir 🧙🏻‍♂️</code></h1>
 <hr>
 
 <table>
@@ -15,20 +15,6 @@
     </td>
   </tr>
 </table>
-
-<hr>
-
-<h3 align="center"><code>⚡ Tech Arsenal</code></h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,js,ts,python,go,react,vue,flutter,dart,html,css&perline=12" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,idea,git,docker,kubernetes,aws,gcp,azure,terraform,postgres,mysql,mongodb,redis&perline=12" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,jenkins,gitlab,circleci,githubactions,figma,postman,cypress&perline=8" />
-</p>
 
 <hr>
 
